@@ -1,0 +1,50 @@
+1;101;Ana Souza;Biblioteca;02/03/2025;Computador não liga;0
+2;102;Carlos Lima;LabInfo1;04/03/2025;Sem acesso à internet;0
+3;103;Juliana Castro;Administração;05/03/2025;Impressora travando;1
+4;104;Ricardo Alves;Sala dos Professores;06/03/2025;Monitor com imagem borrada;0
+5;105;Fernanda Oliveira;LabInfo2;07/03/2025;Sistema não abre;1
+6;101;Ana Souza;LabInfo1;08/03/2025;Teclado com teclas falhando;1
+7;106;Patrícia Nunes;LabInfo1;08/03/2025;Mouse parou de funcionar;0
+8;107;Lucas Martins;Administração;09/03/2025;Erro no sistema de matrícula;1
+9;108;Amanda Rocha;Sala dos Professores;10/03/2025;Atualização travada no Windows;0
+10;109;Eduardo Melo;Biblioteca;11/03/2025;Problemas com scanner;1
+11;110;Joana Barreto;LabInfo3;12/03/2025;Computador reiniciando sozinho;0
+12;111;Gustavo Rezende;Administração;12/03/2025;Sem som no computador;1
+13;112;Beatriz Campos;Biblioteca;13/03/2025;Monitor piscando;0
+14;102;Carlos Lima;LabInfo1;13/03/2025;Sem conexão com rede interna;1
+15;113;Tatiane Gomes;Administração;14/03/2025;Erro ao imprimir PDF;0
+16;114;Daniel Teixeira;Sala dos Professores;15/03/2025;Fonte com cheiro de queimado;1
+17;115;Camila Silva;LabInfo2;16/03/2025;Computador muito lento;1
+18;109;Eduardo Melo;Biblioteca;16/03/2025;Conector de rede danificado;0
+19;103;Juliana Castro;Administração;17/03/2025;Falha ao logar no sistema;0
+20;116;Leonardo Pinto;LabInfo3;17/03/2025;Webcam não detectada;1
+21;117;Renata Lima;Sala dos Professores;18/03/2025;Projetor sem sinal;0
+22;118;Thiago Costa;Biblioteca;18/03/2025;Mouse travando intermitentemente;1
+23;119;Jéssica Moura;LabInfo1;19/03/2025;HD fazendo barulho estranho;0
+24;120;Bruno Soares;Administração;20/03/2025;Programa fecha sozinho;1
+25;121;Vanessa Dias;LabInfo2;20/03/2025;Pendrive não reconhecido;0
+26;122;Gabriel Rocha;Biblioteca;21/03/2025;Impressora sem conexão com rede;1
+27;123;Aline Cardoso;LabInfo3;22/03/2025;Sistema travando ao iniciar;0
+28;124;Diego Santana;Administração;23/03/2025;Problema com licença do software;1
+29;108;Amanda Rocha;Sala dos Professores;23/03/2025;Microfone não funciona;0
+30;102;Carlos Lima;LabInfo1;24/03/2025;Problema ao abrir navegador;1
+31;101;Ana Souza;Biblioteca;24/03/2025;Problemas com atualização de antivírus;0
+32;125;André Correia;LabInfo2;25/03/2025;HD cheio constantemente;1
+33;126;Natália Mendes;Administração;25/03/2025;Erro ao acessar pasta compartilhada;0
+34;127;Henrique Vasconcelos;LabInfo3;26/03/2025;Drivers desatualizados;1
+35;128;Débora Silveira;Sala dos Professores;27/03/2025;Configuração incorreta de email;1
+36;129;Otávio Queiroz;Biblioteca;27/03/2025;Falha na autenticação Wi-Fi;0
+37;119;Jéssica Moura;LabInfo1;28/03/2025;Computador travando ao iniciar;0
+38;120;Bruno Soares;Administração;29/03/2025;Sistema lento após login;1
+39;121;Vanessa Dias;LabInfo2;30/03/2025;Problema ao mapear unidade de rede;1
+40;130;Felipe Andrade;Biblioteca;30/03/2025;Aplicativo não responde;0
+41;131;Sueli Barbosa;LabInfo3;31/03/2025;Erro de script em site institucional;1
+42;132;Vinícius Nogueira;Sala dos Professores;01/04/2025;Bluetooth não conecta;0
+43;133;Karla Duarte;Biblioteca;01/04/2025;Câmera não abre no navegador;1
+44;134;Edson Brito;LabInfo1;02/04/2025;Erro de certificado no navegador;0
+45;135;Letícia Ramos;Administração;03/04/2025;Problema ao gerar relatório;1
+46;136;Douglas Maciel;LabInfo2;03/04/2025;Teclado digitando sozinho;0
+47;137;Flávia Mourão;Biblioteca;04/04/2025;Rede desconecta aleatoriamente;1
+48;138;Murilo Guedes;LabInfo3;05/04/2025;Erro de boot no sistema;0
+49;139;Lívia Assunção;Sala dos Professores;06/04/2025;Problema com rede Wi-Fi instável;1
+50;140;Pedro Cunha;Biblioteca;06/04/2025;Driver de vídeo ausente;0
