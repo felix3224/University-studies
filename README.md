@@ -24,6 +24,15 @@ Este repositório contém:
    ├── Programação Competitiva
    └── Algoritimos
 
+🎯 Metas
+Completar 100 problemas no Beecrowd
+Aprender uma nova linguagem
+Desenvolver [5] projetos práticos
+Contribuir para projetos open source como o Civet
+
+📝 Aprendizados
+"O único modo de fazer um excelente trabalho é amar o que você faz." - Steve Jobs
+
 📦 repositorio-estudos
 ├── 📂 Estruturas-Dodos
 │   ├── 📂 List-encadeadas
@@ -36,10 +45,9 @@ Este repositório contém:
 │   ├── 📂 c
 │   ├── 📂 python
 │   └── 📂 javascript
-├── 📂 problemas
+├── 📂 programação-competitiva
 │   ├── 📂 uri-beecrowd
-│   ├── 📂 leetcode
-│   └── 📂 desafios-diversos
+│   └── 📂 leetcode
 ├── 📂 projetos
 │   ├── 📂 pequenos-projetos
 └── 📂 anotacoes
