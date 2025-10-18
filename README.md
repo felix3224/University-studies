@@ -1,6 +1,26 @@
-<h1>STUDY OF C</h1>
+# 📚 Nome do Repositório
 
-<h2>Objetivo</h2>
-<p>Creat for help frends in LP1 <br></p>
-<h2>What have? much matters </h2>
-<p>Alguns exercícios para desensenvolver sua lógica e entendimento da linguagem C <br> Conteúdo muito bom aproveiiiiitemmmm</p>
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
+
+Repositório dedicado aos meus estudos e projetos de programação. Um espaço para aprender, praticar e evoluir como desenvolvedor.
+
+## 🎯 Sobre
+
+Este repositório contém:
+- Exercícios de lógica de programação
+- Projetos de aprendizado
+- Anotações e resumos
+- Soluções de problemas competitivos
+- Experimentos com diferentes tecnologias
+
+## 🛠️ Tecnologias
+
+```text
+📌 Linguagens: C, Python, JavaScript, Java
+📌 Ferramentas: Git, VS Code, Linux
+📌 Áreas de Estudo: 
+   ├── Estruturas de Dados
+   ├── Algoritmos
+   ├── Programação Competitiva
+   └── Desenvolvimento Web
