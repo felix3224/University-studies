@@ -41,10 +41,6 @@ Contribuir para projetos open source como o Civet
 │   ├── 📂 Fillas
 │   ├── 📂 Tree
 │   ├── 📂 File
-├── 📂 linguagens
-│   ├── 📂 c
-│   ├── 📂 python
-│   └── 📂 javascript
 ├── 📂 programação-competitiva
 │   ├── 📂 uri-beecrowd
 │   └── 📂 leetcode
