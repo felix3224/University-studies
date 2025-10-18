@@ -34,7 +34,7 @@ Contribuir para projetos open source como o Civet
 "O único modo de fazer um excelente trabalho é amar o que você faz." - Steve Jobs
 
 📦 repositorio-estudos
-├── 📂 Estruturas-Dodos
+├── 📂 Estruturas-Dados
 │   ├── 📂 List-encadeadas
 │   ├── 📂 Listas-genericas
 │   ├── 📂 Stack
